@@ -1,16 +1,17 @@
-## Hi there 👋
+## Xin chào, mình là Nguyễn Đức Minh 👋
 
-<!--
-**nguyenducminh020506/nguyenducminh020506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sinh viên năm 3 ngành Công nghệ thông tin, chuyên ngành Hệ thống thông tin, tại Học viện Công nghệ Bưu chính Viễn thông (PTIT).
+Hiện mình đang học lập trình web, Android và theo hướng Data Analyst.
 
-Here are some ideas to get you started:
+### Repo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [ptit-web-coursework](https://github.com/nguyenducminh020506/ptit-web-coursework) – các bài thực hành môn Lập trình Web: React, TypeScript, gọi API, CRUD ([demo](https://nguyenducminh020506.github.io/ptit-web-coursework/))
+- [movie-website](https://github.com/nguyenducminh020506/movie-website) – website giới thiệu phim bằng HTML, CSS, JavaScript thuần ([demo](https://nguyenducminh020506.github.io/movie-website/))
+
+### Đang làm
+
+- App mua bán đồ cũ trên Android (dự án nhóm cuối kỳ)
+
+### Đã dùng
+
+HTML · CSS · JavaScript · TypeScript · React · Git
